@@ -1,0 +1,27 @@
+Main goal: Build a web profile.
+_________________________________________
+
+Main goal subbing:-
+
+1.have a sidebar that is like a navigation.
+    a.feedLine.
+    b.profile.
+    d.photos.
+    c.contact.
+    d.social.
+2.have a profile head, thats on the side.
+    a.picture of me.
+    _________________________
+    b.my name.              |
+    c.a sub header.         |
+    d.the school i read in. |--ABOUT ME.
+    e.my grade.             |
+    f.more about me.....    |
+    -------------------------
+3.the rest of the page will have the info about me.
+    a.a big edited picture of me covering the entirity of the page.
+    b.how i work section explaing my workflow.
+    c.front-end dev as in...
+    d.languages i'm confident with.
+4.footer will have:
+    a.my copyright line.
